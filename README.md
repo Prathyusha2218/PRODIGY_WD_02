@@ -6,5 +6,5 @@
 ![image](https://github.com/Prathyusha2218/PRODIGY_WD_02/assets/164630498/b0d658e6-2388-4427-a7f0-708cb8e1af18)
 
 
-A simple stopwatch program using HTML CSS and JavaScript!
+
 <p>you can see the demo here &nbsp; <a href="https://prathyusha2218.github.io/PRODIGY_WD_02/">DEMO </a></p>
