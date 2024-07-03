@@ -16,4 +16,4 @@
 
 
 
-<p>you can see the demo here &nbsp; <a href="https://prathyusha2218.github.io/PRODIGY_WD_02/">DEMO </a></p>
+<p>"You can see the demonstration here" &nbsp; <a href="https://prathyusha2218.github.io/PRODIGY_WD_02/"> DEMO </a></p>
